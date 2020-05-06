@@ -8,7 +8,7 @@
     "env" :{
       "APP_ID" : {
         "description": "The Consumer Key of your Salesforce Connected App",
-        "value": "Your value here"
+        "value": "Your value here "
       },
       "APP_SECRET" : {
         "description": "The Consumer Secret of your Salesforce Connected App",
